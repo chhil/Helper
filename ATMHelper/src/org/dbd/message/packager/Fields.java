@@ -31,6 +31,16 @@ public class Fields {
     public static final String RETRACT_OPERATION             = "RETRACT_OPERATION";
     public static final String DISPENSE_COUNTS               = "DISPENSE_COUNTS";
     public static final String DEVICE_ID_DISPENSER           = "DEVICE_ID_DISPENSER";
-    public static final String FIELD_SEPARATOR_4 = "fs4";
+    public static final String FIELD_SEPARATOR_4             = "fs4";
+    public static final String MESSAGE_SEQUENCE_NUMBER       = "MESSAGE_SEQUENCE_NUMBER";
+    public static final String STATUS_DESCRIPTOR             = "STATUS_DESCRIPTOR";
+    public static final String FIELD_SEPARATOR_5             = "fs5";
+    public static final String FIELD_SEPARATOR_6             = "fs6";
+    public static final String DEVICE_STATUSES               = "DEVICE_STATUSES";
+    public static final String COINS_DISPENSED               = "COINS_DISPENSED";
+    public static final String MDS_STATUS                    = "MDS_STATUS";
+    public static final String BUFFERS_FOLLOWING             = "BUFFERS_FOLLOWING";
+    public static final String ROLLOVER_COUNTS               = "ROLLOVER_COUNTS";
+    public static final String FIELD_SEPARATOR_7             = "fs7";
 
 }
